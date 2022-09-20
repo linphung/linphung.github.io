@@ -1,2 +1,2 @@
-# linphung.github.io
+# linphung.io
 this is a test
